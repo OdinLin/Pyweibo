@@ -1,0 +1,718 @@
+<div class="group_read">
+	<div class="title" node-type="title_name">
+		全部关注		<span class="num" node-type="title_count">
+			(249个)		</span>
+		    	<div class="W_tips empty clearfix">
+       	<!-- 全部关注 -->
+        	        	<p class="icon"><span class="icon_warnS"></span></p>
+       		<p class="txt S_txt2" node-type="title_notice"><a href="http://vip.weibo.com/paycenter?from=myallfollow">开通微博会员</a>可提高关注上限</p>
+        	            	</div>
+    	
+    	    	    	    	<span class="promotion_twist">
+	    	<img src="http://img.t.sinajs.cn/t5/style/images/layer/ico_iphone.png"/>
+    		<span class="twist_link">
+	    		<span node-type="ad_tip" class="pro_link">
+	    		<a href="http://weibo.com/a/checkin/index?from=myfollow" target="_blank">新年送祝福，签到赢好礼&raquo;</a>
+	    		<a href="http://weibo.com/a/checkin/index?from=myfollow" target="_blank">天天来签到，大奖等你拿&raquo;</a>
+	    		</span>
+    		</span>
+    	</span>
+    	    </div>
+	
+	</div>
+
+<div class="tab_normal clearfix">
+    <div class="S_txt2" node-type="title_describe">
+<!-- 分组页 -->  
+  			</div> 
+</div> 
+
+
+<div node-type="list_container" class="myfollow_even clearfix">
+	<div class="tab_normal clearfix">
+ 		<!-- 全部关注页/分组页/密友页 --> 
+  
+        <div node-type="controlBar" class="fixed_bar page_fixed_bar S_bg2">
+					<div class="inner clearfix">
+						<div class="bar_left">
+											                  												                  	<a class="W_btn_c btn_arrow" action-type="set_scope" href="/1220349643/myfollow?ftype"><span>全部关注<em class="W_arrow"><em class="down" node-type="arrow">◆</em></em></span></a>
+			                    											                    <a  class="W_btn_c btn_arrow" action-type="set_order" action-data="by=time" href="/1220349643/myfollow?t=1"><span>按关注时间排序<em class="W_arrow"><em class="down" node-type="arrow">◆</em></em></span></a>
+			                    																																																			                  				                  	<a class="W_btn_c_disable btn_arrow"  action-type="add_to_other_group" node-type="add_to_other_group" href="javascript:void(0);" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add_all"><span>添加到分组<em class="W_arrow"><em class="down" node-type="arrow">◆</em></em></span></a>
+			                  				                  				                  				                  	<a class="W_btn_c_disable"  diss-data="refer_sort=relationManage&location=myfollow&refer_flag=unfollow_all" node-type="cancel_follow" action-type="cancel_follow" href="javascript:void(0);"><span>取消关注</span></a>
+			                  				                  				                  	
+                  				<span style="display:none;" class="chosen"  node-type="selectText">已经选择<span class="S_spetxt" node-type="selectCount">0</span>人</span>
+								<a style="display:none;" class="normal_link"  href="javascript:void(0);" node-type="cancel_select" action-type="cancel_select">取消选择</a>
+						</div>
+						<div class="bar_right" node-type="search">
+      						<div class="input_search">
+                    			<div class="inner">
+                     	 			<div class="btns">
+                     	 				<a node-type="search_submit" href="/1220349643/myfollow" class="btn_search W_ico20 iconsearch"></a>
+                     				</div>
+                     				<input node-type="search_input" class="noborder" value="输入昵称或备注" />
+                    			</div>
+      						</div>
+   						</div>
+					</div>
+		</div>
+           </div>
+
+
+	<!-- 分组成员列表区 -->
+				<div node-type="user_list" class="mylistBox clearfix">
+   	<div class="myfollow_list S_line2 SW_fun" action-data="uid=2687675833&profile_image_url=http://tp2.sinaimg.cn/2687675833/50/5629469339/0&gid=0&gname=未分组&screen_name=数据小宇军" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2687675833"><img src="http://tp2.sinaimg.cn/2687675833/50/5629469339/0" usercard="id=2687675833" alt="数据小宇军" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2687675833" title="数据小宇军" usercard="id=2687675833">数据小宇军</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=数据小宇军&uid=2687675833" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：世界上最远的距离，是知道与做到的距离        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1808080990&profile_image_url=http://tp3.sinaimg.cn/1808080990/50/5620305910/1&gid=0&gname=未分组&screen_name=刘万祥ExcelPro" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/excelpro"><img src="http://tp3.sinaimg.cn/1808080990/50/5620305910/1" usercard="id=1808080990" alt="刘万祥ExcelPro" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/excelpro" title="刘万祥ExcelPro" usercard="id=1808080990">刘万祥ExcelPro</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=刘万祥ExcelPro&uid=1808080990" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：《Excel图表之道》、《用地图说话》作者。京东http://t.cn/SXnjCR 卓越http://t.cn/SXnCQH 当当http://t.cn/SXnOMW 淘宝http://t.cn/SXDLjS        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2855805402&profile_image_url=http://tp3.sinaimg.cn/2855805402/50/5645815656/0&gid=3488003349742854&gname=小陌&screen_name=pretty-王婷" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2855805402"><img src="http://tp3.sinaimg.cn/2855805402/50/5645815656/0" usercard="id=2855805402" alt="pretty-王婷" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2855805402" title="pretty-王婷" usercard="id=2855805402">pretty-王婷</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=pretty-王婷&uid=2855805402" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    她还没有填写个人简介        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2542586512&profile_image_url=http://tp1.sinaimg.cn/2542586512/50/5641130952/0&gid=3488003349742854&gname=小陌&screen_name=Alicekyra" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2542586512"><img src="http://tp1.sinaimg.cn/2542586512/50/5641130952/0" usercard="id=2542586512" alt="Alicekyra" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2542586512" title="Alicekyra" usercard="id=2542586512">Alicekyra</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=Alicekyra&uid=2542586512" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：IS me Just me        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2218904682&profile_image_url=http://tp3.sinaimg.cn/2218904682/50/40008894712/0&gid=0&gname=未分组&screen_name=吖佳o0" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/iamflypig"><img src="http://tp3.sinaimg.cn/2218904682/50/40008894712/0" usercard="id=2218904682" alt="吖佳o0" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/iamflypig" title="吖佳o0" usercard="id=2218904682">吖佳o0</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addtwo"></em>互相关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=吖佳o0&uid=2218904682" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：One thing I know , that is I know nothing.. This is Liu Jiajia,nice to meet u ^^*        </div>
+    <div class="introHover">
+      	<a href="javascript:;" action-type="webim.conversation" action-data="uid=2218904682&nick=吖佳o0"><i class="W_chat_stat W_chat_stat_online"></i>聊天</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1675753864&profile_image_url=http://tp1.sinaimg.cn/1675753864/50/5602754068/1&gid=3492337747924923,201110160521281348&gname=fun,特别关注&screen_name=田不野" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/turena"><img src="http://tp1.sinaimg.cn/1675753864/50/5602754068/1" usercard="id=1675753864" alt="田不野" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/turena" title="田不野" usercard="id=1675753864">田不野</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3492337747924923,201110160521281348&nick=田不野&uid=1675753864" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="fun,特别关注">
+        	fun,特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：科学松鼠会成员，环境科学研究者        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1736860714&profile_image_url=http://tp3.sinaimg.cn/1736860714/50/5651356213/0&gid=3488003349742854&gname=小陌&screen_name=paulalababy" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/paula1207"><img src="http://tp3.sinaimg.cn/1736860714/50/5651356213/0" usercard="id=1736860714" alt="paulalababy" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/paula1207" title="paulalababy" usercard="id=1736860714">paulalababy</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=paulalababy&uid=1736860714" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：◆◇&quot;go with the flow.&quot;.の◇◆        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1968574797&profile_image_url=http://tp2.sinaimg.cn/1968574797/50/5650642578/0&gid=3488003349742854&gname=小陌&screen_name=央央拉菲" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/1968574797"><img src="http://tp2.sinaimg.cn/1968574797/50/5650642578/0" usercard="id=1968574797" alt="央央拉菲" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/1968574797" title="央央拉菲" usercard="id=1968574797">央央拉菲</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=央央拉菲&uid=1968574797" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：有着红色为主蓝色为辅的多变性格，心直口快，多愁善感，能安静亦能疯癫，是海水亦是火焰。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2571834837&profile_image_url=http://tp2.sinaimg.cn/2571834837/50/40006699024/0&gid=0&gname=未分组&screen_name=sweet可爱女人" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2571834837"><img src="http://tp2.sinaimg.cn/2571834837/50/40006699024/0" usercard="id=2571834837" alt="sweet可爱女人" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2571834837" title="sweet可爱女人" usercard="id=2571834837">sweet可爱女人</a>
+                <a target="_blank" href="http://vgirl.weibo.com"><i title= "微博女郎" class="W_ico16 ico_vlady"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=sweet可爱女人&uid=2571834837" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：可爱又迷人的正派角色~~喵        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1863847712&profile_image_url=http://tp1.sinaimg.cn/1863847712/50/1300786784/0&gid=3488003349742854&gname=小陌&screen_name=LuckyGirl刘香香" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/luckyliuxiangxiang"><img src="http://tp1.sinaimg.cn/1863847712/50/1300786784/0" usercard="id=1863847712" alt="LuckyGirl刘香香" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/luckyliuxiangxiang" title="LuckyGirl刘香香" usercard="id=1863847712">LuckyGirl刘香香</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=LuckyGirl刘香香&uid=1863847712" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：.喜欢看帅哥，听说可以长寿...保护动物..        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1716461763&profile_image_url=http://tp4.sinaimg.cn/1716461763/50/22831450990/1&gid=3488003349742854&gname=小陌&screen_name=安小鹏An" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/335659753"><img src="http://tp4.sinaimg.cn/1716461763/50/22831450990/1" usercard="id=1716461763" alt="安小鹏An" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/335659753" title="安小鹏An" usercard="id=1716461763">安小鹏An</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3488003349742854&nick=安小鹏An&uid=1716461763" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="小陌">
+        	小陌        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：请点击博客地址加入 我的微群。。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2826592210&profile_image_url=http://tp3.sinaimg.cn/2826592210/50/39997491080/1&gid=201110160521281348&gname=特别关注&screen_name=纸媒互通车" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2826592210"><img src="http://tp3.sinaimg.cn/2826592210/50/39997491080/1" usercard="id=2826592210" alt="纸媒互通车" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2826592210" title="纸媒互通车" usercard="id=2826592210">纸媒互通车</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪机构认证" class="W_ico16 approve_co"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=纸媒互通车&uid=2826592210" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：精准网购直投广告，品牌传播最佳合作媒体、杭州旅游、西博会、地铁、长运、火车站战略合作方，中国最大的彩色纸巾广告商、二维码广告战略级发布平台        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1974271741&profile_image_url=http://tp2.sinaimg.cn/1974271741/50/1297924661/0&gid=201110160521281348&gname=特别关注&screen_name=欧盟在中国" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/euinchina"><img src="http://tp2.sinaimg.cn/1974271741/50/1297924661/0" usercard="id=1974271741" alt="欧盟在中国" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/euinchina" title="欧盟在中国" usercard="id=1974271741">欧盟在中国</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪机构认证" class="W_ico16 approve_co"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=欧盟在中国&uid=1974271741" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：欧盟驻华代表团官方微博www.eu-in-china.com #盟兔在哪里# http://event.weibo.com/136082 #欧盟带你乐游欧洲# http://event.weibo.com/139782        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1830516311&profile_image_url=http://tp4.sinaimg.cn/1830516311/50/5633278403/1&gid=201110160521281348&gname=特别关注&screen_name=龙星计划" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/longxingjihua"><img src="http://tp4.sinaimg.cn/1830516311/50/5633278403/1" usercard="id=1830516311" alt="龙星计划" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/longxingjihua" title="龙星计划" usercard="id=1830516311">龙星计划</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=龙星计划&uid=1830516311" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：龙星计划之公益微博，布道各种计算机技术        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1915508822&profile_image_url=http://tp3.sinaimg.cn/1915508822/50/1294554928/1&gid=201110160521281348&gname=特别关注&screen_name=淘宝褚霸" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/tchuba"><img src="http://tp3.sinaimg.cn/1915508822/50/1294554928/1" usercard="id=1915508822" alt="淘宝褚霸" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/tchuba" title="淘宝褚霸" usercard="id=1915508822">淘宝褚霸</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=淘宝褚霸&uid=1915508822" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：不闻不若闻之，闻之不若见之，见之不若知之，知之不若行之。 http://mysql.taobao.org/        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1939498534&profile_image_url=http://tp3.sinaimg.cn/1939498534/50/5632562263/1&gid=201110160521281348&gname=特别关注&screen_name=阿里技术嘉年华" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/taobaodeveloperclub"><img src="http://tp3.sinaimg.cn/1939498534/50/5632562263/1" usercard="id=1939498534" alt="阿里技术嘉年华" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/taobaodeveloperclub" title="阿里技术嘉年华" usercard="id=1939498534">阿里技术嘉年华</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪机构认证" class="W_ico16 approve_co"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=阿里技术嘉年华&uid=1939498534" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：阿里技术沙龙·第15期 （报名进行中）
+北京站-《New Beginning - TaoMobile 无线技术专场》
+12月22日1...        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1229068373&profile_image_url=http://tp2.sinaimg.cn/1229068373/50/1300877181/1&gid=0&gname=未分组&screen_name=瘦驼" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/limboman"><img src="http://tp2.sinaimg.cn/1229068373/50/1300877181/1" usercard="id=1229068373" alt="瘦驼" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/limboman" title="瘦驼" usercard="id=1229068373">瘦驼</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=瘦驼&uid=1229068373" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    他还没有填写个人简介        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1812534933&profile_image_url=http://tp2.sinaimg.cn/1812534933/50/5649573808/1&gid=201110160521281348&gname=特别关注&screen_name=郭宽Oct" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/royguo1988"><img src="http://tp2.sinaimg.cn/1812534933/50/5649573808/1" usercard="id=1812534933" alt="郭宽Oct" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/royguo1988" title="郭宽Oct" usercard="id=1812534933">郭宽Oct</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=郭宽Oct&uid=1812534933" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：兴趣广泛，学无所成。http://www.sobuhu.com        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2282988462&profile_image_url=http://tp3.sinaimg.cn/2282988462/50/5639974591/1&gid=201110160521281348&gname=特别关注&screen_name=数据挖掘工人" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/jerrytadie"><img src="http://tp3.sinaimg.cn/2282988462/50/5639974591/1" usercard="id=2282988462" alt="数据挖掘工人" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/jerrytadie" title="数据挖掘工人" usercard="id=2282988462">数据挖掘工人</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=数据挖掘工人&uid=2282988462" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：专注于数据分析以及数据挖掘，电信银行互联网营销解决方案。喜欢分享学习数据仓库、BI、SAS、SPSS、Python、oracle相关知识。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1191258123&profile_image_url=http://tp4.sinaimg.cn/1191258123/50/5628108258/1&gid=0&gname=未分组&screen_name=韩寒&vip=1" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/hanhan"><img src="http://tp4.sinaimg.cn/1191258123/50/5628108258/1" usercard="id=1191258123" alt="韩寒" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/hanhan" title="韩寒" usercard="id=1191258123">韩寒</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			    <a action-type="ignore_list" title="微博会员" target="_blank" href="http://vip.weibo.com/personal?from=main"><i class="W_ico16 ico_member"></i></a>                </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=韩寒&uid=1191258123" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：韩寒        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2269904421&profile_image_url=http://tp2.sinaimg.cn/2269904421/50/5606630886/1&gid=201110160521281348&gname=特别关注&screen_name=香港陶傑" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2269904421"><img src="http://tp2.sinaimg.cn/2269904421/50/5606630886/1" usercard="id=2269904421" alt="香港陶傑" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2269904421" title="香港陶傑" usercard="id=2269904421">香港陶傑</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪个人认证 " class="W_ico16 approve"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=香港陶傑&uid=2269904421" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    他还没有填写个人简介        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1718792531&profile_image_url=http://tp4.sinaimg.cn/1718792531/50/1275890768/1&gid=201110160521281348&gname=特别关注&screen_name=rickjin" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/rickjin"><img src="http://tp4.sinaimg.cn/1718792531/50/1275890768/1" usercard="id=1718792531" alt="rickjin" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/rickjin" title="rickjin" usercard="id=1718792531">rickjin</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=rickjin&uid=1718792531" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：专职走私一些 NLP/ML/IR 方面的东东        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2741308061&profile_image_url=http://tp2.sinaimg.cn/2741308061/50/5631093582/1&gid=3492337747924923&gname=fun&screen_name=神马雷雷" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/u/2741308061"><img src="http://tp2.sinaimg.cn/2741308061/50/5631093582/1" usercard="id=2741308061" alt="神马雷雷" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/u/2741308061" title="神马雷雷" usercard="id=2741308061">神马雷雷</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=3492337747924923&nick=神马雷雷&uid=2741308061" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="fun">
+        	fun        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    他还没有填写个人简介        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1400936805&profile_image_url=http://tp2.sinaimg.cn/1400936805/50/1290048174/1&gid=0&gname=未分组&screen_name=ZoomQuiet" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/zoomquiet"><img src="http://tp2.sinaimg.cn/1400936805/50/1290048174/1" usercard="id=1400936805" alt="ZoomQuiet" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/zoomquiet" title="ZoomQuiet" usercard="id=1400936805">ZoomQuiet</a>
+                <a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_ico16 ico_club" node-type="daren"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=ZoomQuiet&uid=1400936805" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：知识管理乃是培育可催生自学习型组织的文化氛围!Pythonic/Kapulity原教旨主义者…四处乱窜的大妈…可爱的Python主创…        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2616819885&profile_image_url=http://tp2.sinaimg.cn/2616819885/50/5625131038/1&gid=201110160521281348&gname=特别关注&screen_name=HadoopChina" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/chinadoop"><img src="http://tp2.sinaimg.cn/2616819885/50/5625131038/1" usercard="id=2616819885" alt="HadoopChina" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/chinadoop" title="HadoopChina" usercard="id=2616819885">HadoopChina</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=HadoopChina&uid=2616819885" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：致力于促进Hadoop及大数据技术在中国的普及及应用        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2706255861&profile_image_url=http://tp2.sinaimg.cn/2706255861/50/5629448744/1&gid=201110160521281348&gname=特别关注&screen_name=大数据与Hadoop中国社区" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/hugsh"><img src="http://tp2.sinaimg.cn/2706255861/50/5629448744/1" usercard="id=2706255861" alt="大数据与Hadoop中国社区" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/hugsh" title="大数据与Hadoop中国社区" usercard="id=2706255861">大数据与Hadoop...</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=大数据与Hadoop中国社区&uid=2706255861" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：大数据与Hadoop中国社区官方微博        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=2481329657&profile_image_url=http://tp2.sinaimg.cn/2481329657/50/5643889709/1&gid=201110160521281348&gname=特别关注&screen_name=EasyHadoop" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/easyhadoop"><img src="http://tp2.sinaimg.cn/2481329657/50/5643889709/1" usercard="id=2481329657" alt="EasyHadoop" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/easyhadoop" title="EasyHadoop" usercard="id=2481329657">EasyHadoop</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=EasyHadoop&uid=2481329657" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：中国Hadoop开源社区 EasyHadoop。分享来自Hadoop一线的最佳实践。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1645536727&profile_image_url=http://tp4.sinaimg.cn/1645536727/50/5628229235/1&gid=0&gname=未分组&screen_name=互动出版网china-pub" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/chinapub2011"><img src="http://tp4.sinaimg.cn/1645536727/50/5628229235/1" usercard="id=1645536727" alt="互动出版网china-pub" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/chinapub2011" title="互动出版网china-pub" usercard="id=1645536727">互动出版网china...</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪机构认证" class="W_ico16 approve_co"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=互动出版网china-pub&uid=1645536727" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：计算机图书买二赠一，限时秒杀，满500赠原版英文书！
+活动连接：http://www.china-pub.com/STATIC07/1...        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1951657750&profile_image_url=http://tp3.sinaimg.cn/1951657750/50/5643174354/0&gid=0&gname=未分组&screen_name=轻博客" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/sinaqing"><img src="http://tp3.sinaimg.cn/1951657750/50/5643174354/0" usercard="id=1951657750" alt="轻博客" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/sinaqing" title="轻博客" usercard="id=1951657750">轻博客</a>
+                <a target="_blank" href="http://verified.weibo.com/verify"><i title= "新浪机构认证" class="W_ico16 approve_co"action-type="ignore_list"></i></a>			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=0&nick=轻博客&uid=1951657750" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="未分组">
+        	未分组        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：有些回忆，即使痛苦，却仍要记住，只因那时的美好。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+<div class="myfollow_list S_line2 SW_fun" action-data="uid=1915548291&profile_image_url=http://tp4.sinaimg.cn/1915548291/50/5636758468/1&gid=201110160521281348&gname=特别关注&screen_name=陈利人" action-type="user_item">
+    <div class="selected"></div>
+    <div class="face" action-type="ignore_list"><a target="_blank" href="/lirenchen"><img src="http://tp4.sinaimg.cn/1915548291/50/5636758468/1" usercard="id=1915548291" alt="陈利人" /></a></div>
+    <ul class="info">
+        <li>
+                <a target="_blank" action-type="ignore_list" node-type="screen_name" class="S_func1" href="/lirenchen" title="陈利人" usercard="id=1915548291">陈利人</a>
+                			                    </li>
+        <li>
+        	        		<span class="connlink"><em class="W_ico12 icon_addone"></em>已关注</span>
+        	        </li>
+        
+        <li><a class="S_link2" action-data="gid=201110160521281348&nick=陈利人&uid=1915548291" diss-data="refer_sort=relationManage&location=myfollow&refer_flag=add" action-type="set_group" node-type="set_group" href="javascript:;" title="特别关注">
+        	特别关注        	<span class="W_arrow"><em class="down">◆</em></span></a>
+        </li>
+    </ul>
+    <div class="intro S_txt2">
+    简介：你关注高科技，互联网（含移动），新产品，IT人才，职业发展，好玩的吗？那请关注我们吧。        </div>
+    <div class="introHover">
+      	<a href="javascript:void(0);" action-type="begFollow">求关注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+    </div>
+</div>
+
+   	</div>
+	   		
+   <div class="tab_normal_opp S_line2 clearfix">
+   		<!-- 分页 -->
+              <div class="tab_normal_r">
+           <div class="W_pages_minibtn" node-type="wrapSwitchPage">
+                  											<a bpfilter="relation" class="W_btn_c" action-data="page=3&t=&f=" action-type="switchType" href="http://weibo.com/1220349643/myfollow?t=1&page=3"><span>上一页</span></a>
+																		<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=1" action-data="page=1&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=1">1</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=2" action-data="page=2&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=2">2</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=3" action-data="page=3&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=3">3</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=4" action-data="page=4&t=&f=" action-type="switchType"  class="page S_txt1"   href="http://weibo.com/1220349643/myfollow?t=1&page=4">4</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=5" action-data="page=5&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=5">5</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=6" action-data="page=6&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=6">6</a>
+													<a bpfilter="relation" href="" action-data="page=...&t=&f=" action-type="switchType"  class="page S_bg1" href="">...</a>
+													<a bpfilter="relation" href="http://weibo.com/1220349643/myfollow?t=1&page=9" action-data="page=9&t=&f=" action-type="switchType"  class="page S_bg1" href="http://weibo.com/1220349643/myfollow?t=1&page=9">9</a>
+																	<a bpfilter="relation" class="W_btn_c" action-data="page=5&t=&f=" action-type="switchType" href="http://weibo.com/1220349643/myfollow?t=1&page=5"><span>下一页</span></a>
+									                </div>       </div>
+              
+    </div>
+ 
+</div>
+<input type="hidden" node-type="hidden" value="gid=allFollow" />
