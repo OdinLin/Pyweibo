@@ -544,7 +544,7 @@ class weiboUtil:
 		uid = int(uid)
 		page = 1
 		while not finished:
-			URL ='http://weibo.com/%d/myfollow?t=1&page=%d' % (uid,page)
+			URL ='http://weibo.com/%s/myfollow?t=1&page=%s' % (uid,page)
 			print "now page : %d" % page
 			page = page + 1		
 			followsPageage = urllib2.urlopen(URL).read()

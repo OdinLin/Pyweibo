@@ -195,7 +195,7 @@
     <div class="intro S_txt2">
     他还没有填写个人简介        </div>
     <div class="introHover">
-      	<a href="javascript:;" action-type="webim.conversation" action-data="uid=2168006250&nick=王波-NJU"><i class="W_chat_stat W_chat_stat_online"></i>聊天</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+      	<a href="javascript:;" action-type="webim.conversation" action-data="uid=2168006250&nick=王波-NJU"><i class="W_chat_stat W_chat_stat_offline"></i>私信</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
     </div>
 </div>
 <div class="myfollow_list S_line2 SW_fun" action-data="uid=1915968423&profile_image_url=http://tp4.sinaimg.cn/1915968423/50/5632311997/0&gid=3524265788265680&gname=可视化&screen_name=Lady广大" action-type="user_item">
@@ -384,7 +384,7 @@
     <div class="intro S_txt2">
     简介：心中有个爷 万事不孙子｜不通宵 勤睡觉 不嗑药 不打炮 多喝水 多微笑 \m/        </div>
     <div class="introHover">
-      	<a href="javascript:;" action-type="webim.conversation" action-data="uid=1750455064&nick=耂孒"><i class="W_chat_stat W_chat_stat_online"></i>聊天</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
+      	<a href="javascript:;" action-type="webim.conversation" action-data="uid=1750455064&nick=耂孒"><i class="W_chat_stat W_chat_stat_offline"></i>私信</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="set_remark">设置备注</a><span class="W_vline S_line1_c">|</span><a href="javascript:void(0);" action-type="cancel_follow_single">取消关注</a>
     </div>
 </div>
 <div class="myfollow_list S_line2 SW_fun" action-data="uid=1661641861&profile_image_url=http://tp2.sinaimg.cn/1661641861/50/5623467843/1&gid=0&gname=未分组&screen_name=阿當謝" action-type="user_item">
