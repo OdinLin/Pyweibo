@@ -1,5 +1,5 @@
-Pyweibo
-=========
+# Pyweibo
+
 
 这是我关于新浪微博的python函数
 
@@ -13,9 +13,14 @@ Pyweibo
 
 sentimentUtil.py 这个是近期研究的 多微博的情感分析 还没完成哦
 
-Install 
+## Install
 
-  pip install jieba BeautifulSoup4 
+    pip install jieba BeautifulSoup4 mongopy
+
+You should create a config file and input your weibo credentials :
+
+    cp pyweibo.cfg.copy pyweibo.cfg
+    # fill username and password
 
 
 使用例子

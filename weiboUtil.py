@@ -16,6 +16,8 @@ try:
 	import webbrowser
 	from bs4 import BeautifulSoup
 	import networkx as nx
+	from ConfigParser import SafeConfigParser
+
 except ImportError:
 	print >> sys.stderr, """\
 
@@ -69,9 +71,20 @@ class weiboUtil:
 	charset = 'utf8'
 	repost = {}
 
+	
+
 	def __init__(self):
 		print 'login'
-		self.login('xxxxxxxxxxx', '***********')
+
+		#config stuff
+		parser = SafeConfigParser()
+		parser.read('pyweibo.cfg')
+		username = parser.get('login', 'username')
+		pw = parser.get('login', 'password')
+		
+		print parser.get('login', 'username')
+
+		self.login(username, pw)
 
 	#login fun
 	def get_servertime(self, name):
