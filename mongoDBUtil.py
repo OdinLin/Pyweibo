@@ -23,7 +23,7 @@ class mongoDBUtil:
 		return weiboDB.collection
 	
 	#for now,just 2 var first
-	def analyseCollection(self, collection, **args, topN=5)
+	def analyseCollection(self, collection, args, topN=5):
 		list = """collection.group({
 		"key":{args['key']:true},
 		"initial":{"person":[]}, #consider not display person
@@ -41,7 +41,7 @@ class mongoDBUtil:
 		collection.drop() #is it necessory to remove collection?
 		return sorted_list[:topN]
 		
-	def analyseCollection2(self, collection, topN=5)
+	def analyseCollection2(self, collection, topN=5):
 		mapper=Code("""function () {
 			this.interestTag.forEach(function(z) {
 				emit(z, {count:1});
