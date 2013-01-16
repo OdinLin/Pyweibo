@@ -24,7 +24,7 @@ class mongoDBUtil:
 	
 	#for now,just 2 var first
 	def analyseCollection(self, collection, **args, topN=5)
-		list = collection.group({
+		list = """collection.group({
 		"key":{args['key']:true},
 		"initial":{"person":[]}, #consider not display person
 		"reduce":function(doc, out){
@@ -34,7 +34,7 @@ class mongoDBUtil:
 		out.count = out.person.length;
 		},
 		"condition":args['condition']
-		})
+		})"""
 		
 		sorted_list = sorted(list, key=lambda list : list['count'], reverse=True)
 		

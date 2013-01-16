@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import re
 #from pytagcloud import create_tag_image, make_tags
 #from pytagcloud.lang.counter import get_tag_counts
