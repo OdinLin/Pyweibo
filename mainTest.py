@@ -67,7 +67,7 @@ elif b:
 
 
 pyweibo = Pyweibo.Pyweibo() 
-pyweibo.analyseFollowsFansInfo('1220349643')
+pyweibo.analyseFollowsFansInfo(1220349643)
 #mongoDB = mongoDBUtil.mongoDBUtil()
 #pyweibo.login('xxxxxx', '*******')
 #pyweibo.setOid(2145291155)

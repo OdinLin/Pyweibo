@@ -1,5 +1,5 @@
-Pyweibo
-=========
+# Pyweibo
+
 
 这是我关于新浪微博的python函数
 
@@ -13,20 +13,34 @@ Pyweibo
 
 sentimentUtil.py 这个是近期研究的 多微博的情感分析 还没完成哦
 
+## Install
+
+    pip install jieba BeautifulSoup4 mongopy
+
+You should create a config file and input your weibo credentials :
+
+    cp pyweibo.cfg.copy pyweibo.cfg
+    # fill username and password
+
+
 使用例子
 -
 
-import Pyweibo
-
-pyweibo = Pyweibo.Pyweibo() pyweibo.analyseFollowsFansInfo('1220349643') #分析粉丝和关注者的数据
+    import Pyweibo
+    pyweibo = Pyweibo.Pyweibo() pyweibo.analyseFollowsFansInfo('1220349643') #分析粉丝和关注者的数据
 
 #####获取单个用户的数据
-profile = pyweibo.getPersonalProfile() 
-print profile
+
+    profile = pyweibo.getPersonalProfile() 
+    print profile
+
 #####获取用户的微博
-pyweibo.getPersonalFeeds(2145291155, './data2') #获取用户的微博
+
+    pyweibo.getPersonalFeeds(2145291155, './data2') #获取用户的微博
+
 #####产生一个微博的转发路径图（支持多重转发）
-pyweibo.generateRepostMap('http://weibo.com/1763362173/zbGgn0e8U', max=10000) 
+  
+    pyweibo.generateRepostMap('http://weibo.com/1763362173/zbGgn0e8U', max=10000) 
 
 有些东西还是根据近期阅读的《社交网站的数据挖掘和分析》专门真出来的东西，因为本着的是学习各类知识的 目的来研究编写这些代码的所以在构架上，没有优化处理（高手应该一看就出来了吧）。
 
